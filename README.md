@@ -184,12 +184,12 @@ This project successfully analyzed various business-critical aspects of Atliq Ha
 ## 🔗 Important Links
 
 ### 📂 **Project Files:**
-📜 Project Presentation (PDF)<br>
-📹 Video Presentation<br>
-📝 Credit File (Icons, Logos, References)
+[Project Presentation](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/4966e6c9892b36865c908a87c4a18ecc86e6024e/Resume%20Project%20Challenge%204%20Presentation.pdf)<br>
+[Video Presentation]()<br>
+[Credit File](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/4966e6c9892b36865c908a87c4a18ecc86e6024e/CREDITS.md)
 
 ### 🎯 **Challenge Details:**
-📌 Resume Project Challenge 4 by CodeBasics
+[Resume Project Challenge 4 by CodeBasics](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)
 
 ---
 
