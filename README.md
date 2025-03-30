@@ -37,9 +37,10 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ### 1️⃣ Provide the list of markets in which customer **"Atliq Exclusive"** operates its business in the APAC region.
 
+
 **📊 Visualization**
 
-![Ad-Hoc Request 1 Visualization](link-to-image)
+![Screenshot 2025-03-23 231736](https://github.com/user-attachments/assets/eaa4fd5c-b45b-45cc-8963-305f792ea8f8)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -49,9 +50,10 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ### 2️⃣ What is the percentage of unique product increase in 2021 vs. 2020?
 
+
 **📊 Visualization**
 
-![Ad-Hoc Request 2 Visualization](link-to-image)
+![Screenshot 2025-03-23 204709](https://github.com/user-attachments/assets/1ace2c25-72bd-4372-a37d-dddda5645903)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -61,9 +63,10 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ### 3️⃣ Provide a report with all the unique product counts for each segment and sort them in descending order.
 
+
 **📊 Visualization**
 
-![Ad-Hoc Request 3 Visualization](link-to-image)
+![Screenshot 2025-03-23 205303](https://github.com/user-attachments/assets/d7609374-d839-47f1-877d-c7e9129fcfb4)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -73,9 +76,10 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ### 4️⃣ Which segment had the most increase in unique products in 2021 vs 2020?
 
+
 **📊 Visualization**
 
-![Ad-Hoc Request 4 Visualization](link-to-image)
+![Screenshot 2025-03-23 205719](https://github.com/user-attachments/assets/041005dc-4839-4865-afae-214c0c9b8cab)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -85,9 +89,10 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ### 5️⃣ Get the products that have the highest and lowest manufacturing costs.
 
+
 **📊 Visualization**
 
-![Ad-Hoc Request 5 Visualization](link-to-image)
+![Screenshot 2025-03-30 170124](https://github.com/user-attachments/assets/5f4f433d-c40f-4f26-b6b4-8bba3577d511)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -99,7 +104,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 **📊 Visualization**
 
-![Ad-Hoc Request 6 Visualization](link-to-image)
+![Screenshot 2025-03-23 205440](https://github.com/user-attachments/assets/d49c5439-c30f-4e76-abc6-6d9103b11e11)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -111,7 +116,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 **📊 Visualization**
 
-![Ad-Hoc Request 7 Visualization](link-to-image)
+![Screenshot 2025-03-23 205913](https://github.com/user-attachments/assets/2cc86d43-3d33-43ba-bc4e-ed886d3caa3e)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -123,7 +128,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 **📊 Visualization**
 
-![Ad-Hoc Request 8 Visualization](link-to-image)
+![Screenshot 2025-03-23 210330](https://github.com/user-attachments/assets/3e667a47-e0eb-461b-8bbb-b341089b9d6e)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -135,7 +140,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 **📊 Visualization**
 
-![Ad-Hoc Request 9 Visualization](link-to-image)
+![Screenshot 2025-03-23 210216](https://github.com/user-attachments/assets/3fdda6cc-e6a1-4b64-82c7-8c658b103d81)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -147,7 +152,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 **📊 Visualization**
 
-![Ad-Hoc Request 10 Visualization](link-to-image)
+![Screenshot 2025-03-23 210236](https://github.com/user-attachments/assets/d89e2afb-f140-4a00-aa44-a80133d69df9)
 
 🔗 **Query:** [View SQL Query](link-to-query)
 
@@ -176,8 +181,20 @@ This project successfully analyzed various business-critical aspects of Atliq Ha
 
 ---
 
+## 🔗 Important Links
+
+### 📂 **Project Files:**
+📜 Project Presentation (PDF)<br>
+📹 Video Presentation<br>
+📝 Credit File (Icons, Logos, References)
+
+### 🎯 **Challenge Details:**
+📌 Resume Project Challenge 4 by CodeBasics
+
+---
+
 ## 🙌 Special Thanks
-This project is part of **CodeBasics' Resume Project Challenge 4**. Huge thanks to CodeBasics for this opportunity to work on a SQL project! 🎉
+This project is part of **CodeBasics' Resume Project Challenge 4**. Huge thanks to **CodeBasics** for this opportunity to work on SQL project! 🎉
 
 ---
 
