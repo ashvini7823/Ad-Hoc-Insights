@@ -68,7 +68,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 205303](https://github.com/user-attachments/assets/d7609374-d839-47f1-877d-c7e9129fcfb4)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/3-ad-hoc-request.sql)
 
 💡 **Insight:** **Notebook (129) and Accessories (116)** dominate product count, followed by **Peripherals (84)**. **Desktops (32), Storage (27), and Networking (9)** have fewer products.
 
@@ -81,7 +81,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 205719](https://github.com/user-attachments/assets/041005dc-4839-4865-afae-214c0c9b8cab)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/4-ad-hoc-request.sql)
 
 💡 **Insight:** **Accessories (+34), Notebooks (+16), and Peripherals (+16)** showed the highest growth. **Desktops (+15) grew despite having the lowest count, while Storage (+5) and Networking (+3) had minimal growth.**
 
@@ -94,7 +94,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-30 170124](https://github.com/user-attachments/assets/5f4f433d-c40f-4f26-b6b4-8bba3577d511)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/5-ad-hoc-request.sql)
 
 💡 **Insight:** **AQ HOME Allin 1 Gen 2** has the **highest manufacturing cost (₹240.53)**, while **AQ Master wired x1 Ms** has the **lowest (₹0.89)**, indicating a **diverse pricing strategy**.
 
@@ -106,7 +106,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 205440](https://github.com/user-attachments/assets/d49c5439-c30f-4e76-abc6-6d9103b11e11)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/6-ad-hoc-request.sql)
 
 💡 **Insight:** Discount percentages among the top 5 customers are **closely clustered (~1.5%)**, indicating a **standardized discount structure**.
 
@@ -118,7 +118,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 205913](https://github.com/user-attachments/assets/2cc86d43-3d33-43ba-bc4e-ed886d3caa3e)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/7-ad-hoc-request.sql)
 
 💡 **Insight:** **Sales in FY 2021 consistently outperformed FY 2020, showing a positive trend.**
 
@@ -130,7 +130,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 210330](https://github.com/user-attachments/assets/3e667a47-e0eb-461b-8bbb-b341089b9d6e)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/8-ad-hoc-request.sql)
 
 💡 **Insight:** **Sales declined from Q1 to Q3, with a slight recovery in Q4.**
 
@@ -142,7 +142,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 210216](https://github.com/user-attachments/assets/3fdda6cc-e6a1-4b64-82c7-8c658b103d81)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/9-ad-hoc-request.sql)
 
 💡 **Insight:** The **Retailer channel (₹1,219.08M, 73.23%)** led gross sales, followed by **Direct (₹257.53M, 15.47%)** and **Distributor (₹188.03M, 11.30%)**.
 
@@ -154,7 +154,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 210236](https://github.com/user-attachments/assets/d89e2afb-f140-4a00-aa44-a80133d69df9)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/10-ad-hoc-request.sql)
 
 💡 **Insight:** **N & S and P & A divisions dominate sales, while PC lags behind significantly.**
 
