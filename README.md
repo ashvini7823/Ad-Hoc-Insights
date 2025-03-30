@@ -42,7 +42,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 231736](https://github.com/user-attachments/assets/eaa4fd5c-b45b-45cc-8963-305f792ea8f8)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/1-ad-hoc-request.sql)
 
 💡 **Insight:** "Atliq Exclusive" operates in **eight key markets** across the APAC region: **India, Indonesia, Japan, Philippines, South Korea, Australia, New Zealand, and Bangladesh.**
 
@@ -55,7 +55,7 @@ As an applicant for this role, the following tasks were completed to demonstrate
 
 ![Screenshot 2025-03-23 204709](https://github.com/user-attachments/assets/1ace2c25-72bd-4372-a37d-dddda5645903)
 
-🔗 **Query:** [View SQL Query](link-to-query)
+🔗 **Query:** [View SQL Query](https://github.com/ashvini7823/Ad-Hoc-Insights/blob/0362bc4a75d8f177c4adec23159fc7cae6ed9a2e/Ad-Hoc-Requests/2-ad-hoc-request.sql)
 
 💡 **Insight:** Unique products increased from **245 in 2020 to 334 in 2021**, a **36.33% growth**.
 
